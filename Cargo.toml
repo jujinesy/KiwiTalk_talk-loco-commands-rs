@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "talk-loco-commands",
+    "talk-loco-commands-derive"
+]
